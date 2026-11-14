@@ -1,5 +1,7 @@
 <div align="center">
 
+<p><b>English</b> &nbsp;·&nbsp; <a href="./README.zh-TW.md">繁體中文</a></p>
+
 <img src="./assets/banner.svg" alt="Kuan Hsun" width="100%" />
 
 <br />
@@ -11,33 +13,29 @@
 ### `$ cat about.md`
 
 <p>
-<img src="./assets/icons/wrench.svg" width="18" height="18" align="top" alt="" />&nbsp; I build tools for things that annoy me, then keep polishing them long after they work.<br />
-<sub>遇到麻煩事就自己寫工具解決，然後忍不住一直打磨下去。</sub>
+<img src="./assets/icons/wrench.svg" width="18" height="18" align="top" alt="" />&nbsp; I build tools for things that annoy me, then keep polishing them long after they work.
 </p>
 <p>
-<img src="./assets/icons/phone.svg" width="18" height="18" align="top" alt="" />&nbsp; Currently into on-device AI on Android, Chrome extensions, and anything that can be automated.<br />
-<sub>最近在玩 Android 端側 AI、Chrome 擴充功能，以及所有能自動化的東西。</sub>
+<img src="./assets/icons/phone.svg" width="18" height="18" align="top" alt="" />&nbsp; Currently into on-device AI on Android, Chrome extensions, and anything that can be automated.
 </p>
 <p>
-<img src="./assets/icons/book.svg" width="18" height="18" align="top" alt="" />&nbsp; Learning Japanese by reading manga, which is how <a href="https://github.com/ChiuKuanHsun/Mangayaku">Mangayaku</a> happened.<br />
-<sub>靠看漫畫學日文，Mangayaku 就是這樣來的。</sub>
+<img src="./assets/icons/book.svg" width="18" height="18" align="top" alt="" />&nbsp; Learning Japanese by reading manga, which is how <a href="https://github.com/ChiuKuanHsun/Mangayaku">Mangayaku</a> happened.
 </p>
 <p>
-<img src="./assets/icons/cap.svg" width="18" height="18" align="top" alt="" />&nbsp; Student at National Tsing Hua University, Taiwan.<br />
-<sub>就讀於國立清華大學。</sub>
+<img src="./assets/icons/cap.svg" width="18" height="18" align="top" alt="" />&nbsp; Student at National Tsing Hua University, Taiwan.
 </p>
 
 ### `$ ls ~/projects --sort=stars`
 
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
-| **[Mangayaku](https://github.com/ChiuKuanHsun/Mangayaku)**<br />[![stars](https://img.shields.io/github/stars/ChiuKuanHsun/Mangayaku?style=flat-square&color=39d353&labelColor=0d1117)](https://github.com/ChiuKuanHsun/Mangayaku/stargazers) | Android overlay that translates Japanese manga in place. Bubble detection and OCR run on the phone, with JLPT-aware vocabulary notes.<br /><sub>在任何閱讀器上即時翻譯日文漫畫的 Android 懸浮工具，辨識完全在手機上執行。</sub> | Kotlin · Jetpack Compose · ONNX Runtime |
-| **[Tab Prettier](https://github.com/ChiuKuanHsun/Tab-prettier)**<br />[![stars](https://img.shields.io/github/stars/ChiuKuanHsun/Tab-prettier?style=flat-square&color=39d353&labelColor=0d1117)](https://github.com/ChiuKuanHsun/Tab-prettier/stargazers) | Chrome new tab page that composes scenery, an anime character and a clock into one layered scene that shifts with your mouse. [Chrome Web Store →](https://chromewebstore.google.com/detail/fnacfhfopcdcgidgjllgngoigaajbapi)<br /><sub>把新分頁變成有景深的動漫場景，滑鼠一動畫面就跟著動。</sub> | TypeScript · Manifest V3 |
-| **[NTHU Chatbot](https://github.com/NTHU-SA/NTHU-Chatbot)**<br />[![stars](https://img.shields.io/github/stars/NTHU-SA/NTHU-Chatbot?style=flat-square&color=39d353&labelColor=0d1117)](https://github.com/NTHU-SA/NTHU-Chatbot/stargazers) | Campus LINE bot for the NTHU Student Association: quick commands for buses, dining, library and announcements, plus an AI agent chat in LIFF that answers through the NTHU Data MCP tools, with streaming replies.<br /><sub>清華大學學生會的校園 LINE Bot「清華校園情報員」：用指令查公車、餐廳、圖書館與公告，也能在 LIFF 網頁和串接 NTHU Data MCP 的 AI 助理對話。</sub> | Python · FastAPI · LINE API · OpenAI Agents SDK · Firestore · Cloud Run |
-| **[Intent-Based Phishing Detector](https://github.com/ChiuKuanHsun/LLM-And-CyberSecurity-Project)** | Chrome extension that uses an LLM to read the social-engineering intent behind a page's text and flag phishing.<br /><sub>用 LLM 分析網頁文字背後的社交工程意圖，偵測釣魚攻擊。</sub> | JavaScript · Python · LLM |
-| **[cookierun-auto-run](https://github.com/ChiuKuanHsun/cookierun-auto-run)** | Low-latency auto-runner for an Android emulator: writes touch events straight to the input device over ADB, no root.<br /><sub>透過 ADB 直接寫入觸控事件的低延遲自動掛機工具，不需要 root。</sub> | Python · ADB |
-| **[BahaItemAutoNotify](https://github.com/ChiuKuanHsun/BahaItemAutoNotify)** | Watches the Bahamut reward shop and pushes new or changed items to Discord, running on a phone under Termux.<br /><sub>監看巴哈勇者福利社，新上架或異動就推播到 Discord，部署在手機 Termux 上。</sub> | Python · Discord |
-| **[cpp26-reflection-demos](https://github.com/ChiuKuanHsun/cpp26-reflection-demos)** | C++26 static reflection (P2996) examples with compile-time measurements.<br /><sub>C++26 靜態反射範例與編譯時間實測。</sub> | C++26 |
+| **[Mangayaku](https://github.com/ChiuKuanHsun/Mangayaku)**<br />[![stars](https://img.shields.io/github/stars/ChiuKuanHsun/Mangayaku?style=flat-square&color=39d353&labelColor=0d1117)](https://github.com/ChiuKuanHsun/Mangayaku/stargazers) | Android overlay that translates Japanese manga in place. Bubble detection and OCR run on the phone, with JLPT-aware vocabulary notes. | Kotlin · Jetpack Compose · ONNX Runtime |
+| **[Tab Prettier](https://github.com/ChiuKuanHsun/Tab-prettier)**<br />[![stars](https://img.shields.io/github/stars/ChiuKuanHsun/Tab-prettier?style=flat-square&color=39d353&labelColor=0d1117)](https://github.com/ChiuKuanHsun/Tab-prettier/stargazers) | Chrome new tab page that composes scenery, an anime character and a clock into one layered scene that shifts with your mouse. [Chrome Web Store →](https://chromewebstore.google.com/detail/fnacfhfopcdcgidgjllgngoigaajbapi) | TypeScript · Manifest V3 |
+| **[NTHU Chatbot](https://github.com/NTHU-SA/NTHU-Chatbot)**<br />[![stars](https://img.shields.io/github/stars/NTHU-SA/NTHU-Chatbot?style=flat-square&color=39d353&labelColor=0d1117)](https://github.com/NTHU-SA/NTHU-Chatbot/stargazers) | Campus LINE bot for the NTHU Student Association: quick commands for buses, dining, library and announcements, plus an AI agent chat in LIFF that answers through the NTHU Data MCP tools, with streaming replies. | Python · FastAPI · LINE API · OpenAI Agents SDK · Firestore · Cloud Run |
+| **[Intent-Based Phishing Detector](https://github.com/ChiuKuanHsun/LLM-And-CyberSecurity-Project)** | Chrome extension that uses an LLM to read the social-engineering intent behind a page's text and flag phishing. | JavaScript · Python · LLM |
+| **[cookierun-auto-run](https://github.com/ChiuKuanHsun/cookierun-auto-run)** | Low-latency auto-runner for an Android emulator: writes touch events straight to the input device over ADB, no root. | Python · ADB |
+| **[BahaItemAutoNotify](https://github.com/ChiuKuanHsun/BahaItemAutoNotify)** | Watches the Bahamut reward shop and pushes new or changed items to Discord, running on a phone under Termux. | Python · Discord |
+| **[cpp26-reflection-demos](https://github.com/ChiuKuanHsun/cpp26-reflection-demos)** | C++26 static reflection (P2996) examples with compile-time measurements. | C++26 |
 
 ### `$ cat stack.json`
 
